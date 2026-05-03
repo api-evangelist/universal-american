@@ -1,0 +1,59 @@
+name: Universal American Vocabulary
+description: Vocabulary and taxonomy for Universal American, a Medicare-focused health insurance company that operated Medicare Advantage and Part D prescription drug plans before being acquired by WellCare Health Plans in 2017.
+version: '1.0.0'
+created: '2026-05-03'
+modified: '2026-05-03'
+
+domains:
+  - name: Health Insurance
+    description: Health insurance products and coverage types
+    terms:
+      - name: Medicare Advantage
+        definition: Also known as Medicare Part C, a type of Medicare health plan offered by private companies that contracts with Medicare to provide Part A and Part B benefits
+        aliases:
+          - Medicare Part C
+          - MA Plan
+      - name: Medicare Part D
+        definition: Prescription drug benefit program for Medicare beneficiaries, offering coverage for outpatient prescription drugs
+        aliases:
+          - PDP
+          - Prescription Drug Plan
+      - name: Medicare Supplement
+        definition: Supplemental insurance policy sold by private insurers to fill gaps in original Medicare coverage
+        aliases:
+          - Medigap
+      - name: Medicare Beneficiary
+        definition: An individual who is enrolled in Medicare, typically aged 65 or older or with qualifying disabilities
+
+  - name: Healthcare Delivery
+    description: Healthcare service delivery models and partnerships
+    terms:
+      - name: Accountable Care Organization
+        definition: A group of healthcare providers that voluntarily coordinates care for Medicare patients to deliver high-quality care and reduce unnecessary costs
+        aliases:
+          - ACO
+      - name: Value-Based Care
+        definition: A healthcare delivery model in which providers are paid based on patient health outcomes rather than volume of services rendered
+      - name: Primary Care Physician
+        definition: A doctor who provides general medical care and serves as the primary point of contact for patient healthcare needs
+        aliases:
+          - PCP
+      - name: Provider Network
+        definition: A group of healthcare providers that have contracted with an insurance plan to provide covered services to plan members
+
+  - name: Insurance Operations
+    description: Health insurance operational concepts
+    terms:
+      - name: Enrollment
+        definition: The process by which a beneficiary selects and registers for a Medicare plan during an open enrollment period
+      - name: Claims Processing
+        definition: The administrative process of receiving, reviewing, and paying healthcare service claims submitted by providers
+      - name: Prior Authorization
+        definition: A requirement that a healthcare provider obtain approval from a health plan before delivering certain services
+      - name: Formulary
+        definition: A list of prescription drugs covered by a health insurance plan, organized by tier based on cost and coverage level
+      - name: Annual Enrollment Period
+        definition: The period between October 15 and December 7 during which Medicare beneficiaries can change their Medicare Advantage or Part D plans
+        aliases:
+          - AEP
+          - Open Enrollment Period
