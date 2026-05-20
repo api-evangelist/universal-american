@@ -20,6 +20,8 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/universal-american
   - type: Website
     url: https://www.universal-american.com
   - type: Wikipedia
