@@ -2,6 +2,17 @@ aid: universal-american
 name: Universal American
 description: Universal American was a health insurance holding company that focused on providing Medicare Advantage and Medicare prescription drug benefit plans to seniors. The company operated Medicare managed care plans in partnership with Accountable Care Organizations and primary care physicians before being acquired by WellCare Health Plans in 2017 for approximately $800 million.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
 image: https://www.universal-american.com/favicon.ico
