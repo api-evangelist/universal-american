@@ -42,6 +42,11 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/wellcare-health-plans/
+    name: WellCare Health Plans
+    x-relationship: acquired
+    x-evidence: "The company operated Medicare managed care plans in partnership with Accountable Care Organizations and primary care physicians before being acquired by WellCare Health Plans in 2017 for approximately $800 million."
   - type: LinkedIn
     url: https://www.linkedin.com/company/universal-american
   - type: Website
