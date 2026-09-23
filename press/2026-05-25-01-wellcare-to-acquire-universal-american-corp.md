@@ -1,7 +1,9 @@
 ---
 title: WellCare to Acquire Universal American Corp.
 url: https://www.prnewswire.com/news-releases/wellcare-to-acquire-universal-american-corp-300365007.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Universal American" press release artificial intelligence'
 position: 1
 source: serpapi-google

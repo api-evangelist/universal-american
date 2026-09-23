@@ -1,7 +1,9 @@
 ---
 title: Past Events | Wireless Infrastructure Association
 url: https://wia.org/?tribe_venue=mccormick-place&post_type=tribe_venue&eventDisplay=past
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Universal American" press release artificial intelligence'
 position: 4
 source: serpapi-google

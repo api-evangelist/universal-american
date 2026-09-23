@@ -1,7 +1,9 @@
 ---
 title: 'Universal American : Stockholders Approve Pending Merger with ...'
 url: https://www.marketscreener.com/quote/stock/UNIVERSAL-AMERICAN-CORPOR-7908721/news/Universal-American-Stockholders-Approve-Pending-Merger-with-WellCare-23892248/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Universal American" press release artificial intelligence'
 position: 3
 source: serpapi-google
